@@ -1,0 +1,3 @@
+[submodule "Plugins/Zeus"]
+	path = Plugins/Zeus
+	url = git@github.com:directivegames/zeus.git
